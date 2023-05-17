@@ -1,4 +1,4 @@
-# cryptography-MTC3
+# cryptography-MysteryTwister
 This repository contains a collection of useful items regarding MysteryTwister challenges  (https://mysterytwister.org/).
 
 The first topic we go into detail is the Lorenz SZ42, a rotor machine from World War II. British cryptanalysts called it *Tunny*.
